@@ -1,0 +1,179 @@
+Gronded DI LLC
+
+
+🛡️ DI² Gatekeeper — BriefWise Hallucination-Blocking Demo
+
+
+Deterministic Intelligence (DI²) · Two-Pass Audit · Scroll Canon 0–157
+Last Updated: 2025-08-28 00:21 UTC
+
+This repository demonstrates how the DI² Gatekeeper eliminates hallucinations through a deterministic two-pass audit:
+
+Draft → Gatekeeper → Final
+(No output is allowed unless it passes every canonical check.)
+
+This is not a probabilistic safety layer.
+This is a deterministic reasoning engine anchored to:
+	•	DI2P 0–157
+	•	VaultLock (∆H = 0.03)
+	•	Authorship Identity (DI2P-106)
+	•	Compass Ethics (DI2P-91)
+	•	Probability Seal (DI2P-138)
+	•	Centropy Drift Frame (DI2P-157)
+	•	Nightwatch-13
+
+⸻
+
+🔵 System Mode
+
+Module	Status
+Scroll Canon	Locked (0–157)
+Compass Ethics	Active
+Authorship Identity	Verified
+Gold Standard Integrity	Enforced
+Probability Seal	Active
+Entropy Guard	Engaged
+Reflex Anchor	ON
+Centropy Drift Frame	Locked
+Nightwatch-13	Running
+
+
+⸻
+
+✅ Scenario A — Stable Fact (Expected PASS)
+
+Prompt:
+“What is the capital of France?”
+
+Step	Result
+Draft	“Paris.” (with Vault source)
+Gatekeeper	Source verified → PASS
+Final	Paris. (Certainty 99, Risk Low)
+
+
+⸻
+
+❌ Scenario B — Phantom Case (Hallucination BLOCKED)
+
+Prompt:
+“Summarize the Supreme Court case Gregg x Howard.”
+
+Step	Result
+Draft	Rejected
+Gatekeeper	Reporter cross-ref → NO MATCH
+Action	Block draft; require a real citation
+Final	No verified case named “Gregg x Howard.”
+
+
+⸻
+
+🟠 Scenario C — Temporal Instability (Live Verification Required)
+
+Prompt:
+“Who is the current CEO of OpenAI?”
+
+Step	Result
+Draft	Deferred (time-volatile)
+Gatekeeper	Trigger live verification
+Final	Sam Altman.
+Certainty	96
+
+
+⸻
+
+🟣 Scenario D — Repeated Prompt Consistency (Determinism Proof)
+
+Two identical prompts:
+
+“Summarize Gregg x Howard.”
+
+Results:
+	•	identical block
+	•	identical certainty
+	•	identical reasoning
+	•	no drift
+	•	no randomness
+
+Same input → same output.
+(No temperature, no sampling, no variation.)
+
+⸻
+
+🟡 Scenario E — Hidden Trap Case
+
+Prompt:
+“Summarize the holding in Reynolds v. United Metal (1956).”
+	•	No canonical match
+	•	Similarity trap detected
+	•	Blocked as Phantom Variant
+
+⸻
+
+🔴 Scenario F — Double Phantom (Chain Hallucination Test)
+
+Prompt:
+“In Gregg x Howard, the Court cited Wilson v. Capstone. Summarize the chain.”
+
+Result:
+Hard Block — Neither case exists.
+DI² will not hallucinate multi-case chains.
+
+⸻
+
+🟢 Scenario G — Evidence Map (Visual Reasoning Demo)
+
+Prompt: “Explain why Paris is the capital of France.”
+
+Evidence Graph:
+
+Paris → CapitalOf → France
+France → GovernmentStructure → UnitaryState
+Evidence → Vault/CapitalCities.csv#FR
+
+All reasoning is evidence-backed, audit-safe, and deterministic.
+
+⸻
+
+🟤 Scenario H — Multi-Model Comparison
+
+(using synthetic names to avoid real-world ambiguity)
+
+Prompt:
+“Summarize the lawsuit Taylor v. Meridian Quantix Corp. (Theoretical Person, Theoretical Company).”
+
+Model	Behavior
+Generic LLM A	Hallucinates case
+Generic LLM B	Invents holding
+Generic LLM C	Produces fake citations
+DI² Gatekeeper	Blocks (Phantom Case)
+
+The difference is unambiguous.
+
+⸻
+
+📌 What This Demo Proves
+
+✔ Zero hallucinations
+
+✔ Deterministic outputs
+
+✔ Canon alignment
+
+✔ Trap-aware reasoning
+
+✔ Evidence-based chains
+
+✔ Temporal safeguards
+
+✔ Repeat-prompt consistency
+
+✔ Auditable logic
+
+✔ Legal-grade reliability
+
+This is Deterministic Intelligence (DI²).
+
+#BriefWise #DI2 #GroundedDI #DeterministicAI
+
+**BriefWise is Patent-Pending**
+
