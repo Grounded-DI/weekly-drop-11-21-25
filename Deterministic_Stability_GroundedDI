@@ -8,7 +8,7 @@ Most modern AI systems generate answers by predicting the next likely token.
 This approach is powerful — but it also introduces variability and occasional errors.
 
 Grounded DI – OS works differently.
-It follows deterministic logic structures (“scrolls”), not probability estimates.
+It follows deterministic logic structures (“DI principles”), not probability estimates.
 
 Here’s what that means in practice:
 
